@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swa-Moha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on Frontend web development
 - 📫 How to reach me: email- swahibmuhammad74@gmail.com
                       WhatsApp - +254797309121
 
